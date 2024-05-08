@@ -1,0 +1,1 @@
+The KNN algorithm is a simple and effective classification algorithm that classifies a new data point based on the majority class of its nearest neighbors. In this repository, we explore the KNN algorithm using the Iris dataset, a popular dataset in machine learning.
